@@ -21,37 +21,15 @@ void protect_data(int & ddata2)
     ddata2=ddata2 ^k;
 }
 
-/*boll read_from_file(const string filename, string & name,int  &age, double  &temp ,int  &rate ,int & res ,int & blood ,int  &fbs)
-
-{
-    ifstream file(filename,ios::in);
-    if (!file.is_open()) {
-        cerr << "file can not be opend" << endl;
-        return;
-    }
-    
-    string reader;
-    while (getline(file, reader)) 
-    {
-        istringstream iss(reader);
-        iss >> name >> age >> temp >> rate >> res >> blood >> fbs;
-        return true;
-    
-    }
-
-    
-    file.close();
-}
-*/
-
-
-
-
 int main()
 {
+    int counter=0;
     while (true)
     {
-        
+        counter++;
+        hospital object1(counter);
+
+
     
     
     fstream file2("data.txt",ios::in);
@@ -107,10 +85,10 @@ cout<<"fbs:"<<endl;
 int main_fbs;
 cin>>main_fbs;
     patient obj2(main_name,main_age,main_temp,main_heart,main_rate,main_blood,main_fbs);
-   cout<<endl;
+    cout<<"the total patient in hospital are "<<object1.get_list_patient()<<endl;
    cout<<"do you want continue ? if yes enter y"<<endl;
    char check;
-   cin.get(check);
+   cin>>check;
    if (check!='y')
    {
     return 0;
