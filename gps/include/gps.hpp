@@ -12,6 +12,7 @@ long int get_position2() const;
 gps();
 
 
+
 private:
 long int latitude;
 long int longitude;

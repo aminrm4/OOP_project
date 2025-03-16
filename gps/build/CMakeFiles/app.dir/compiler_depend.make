@@ -214,6 +214,7 @@ CMakeFiles/app.dir/src/main1.cpp.o: /home/amin/Desktop/vs.code.uni/src/main1.cpp
   /usr/include/c++/13/bits/cpp_type_traits.h \
   /usr/include/c++/13/bits/cxxabi_forced.h \
   /usr/include/c++/13/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13/bits/enable_special_members.h \
   /usr/include/c++/13/bits/exception.h \
   /usr/include/c++/13/bits/exception_defines.h \
   /usr/include/c++/13/bits/exception_ptr.h \
@@ -280,6 +281,7 @@ CMakeFiles/app.dir/src/main1.cpp.o: /home/amin/Desktop/vs.code.uni/src/main1.cpp
   /usr/include/c++/13/iostream \
   /usr/include/c++/13/istream \
   /usr/include/c++/13/new \
+  /usr/include/c++/13/optional \
   /usr/include/c++/13/ostream \
   /usr/include/c++/13/pstl/pstl_config.h \
   /usr/include/c++/13/stdexcept \
@@ -387,6 +389,8 @@ CMakeFiles/app.dir/src/main1.cpp.o: /home/amin/Desktop/vs.code.uni/src/main1.cpp
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h
 
+
+/usr/include/c++/13/bits/enable_special_members.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
 
@@ -605,6 +609,8 @@ CMakeFiles/app.dir/src/main1.cpp.o: /home/amin/Desktop/vs.code.uni/src/main1.cpp
 /usr/include/c++/13/bits/cxxabi_forced.h:
 
 /usr/include/c++/13/string:
+
+/usr/include/c++/13/optional:
 
 /usr/include/c++/13/bits/istream.tcc:
 
