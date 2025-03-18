@@ -1,0 +1,3 @@
+/home/amin/Desktop/vs.code.uni/build/CMakeFiles/app.dir
+/home/amin/Desktop/vs.code.uni/build/CMakeFiles/edit_cache.dir
+/home/amin/Desktop/vs.code.uni/build/CMakeFiles/rebuild_cache.dir
