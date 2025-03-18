@@ -129,77 +129,77 @@ app/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/build
 .PHONY : app/fast
 
-src/hospital.o: src/hospital.cpp.o
-.PHONY : src/hospital.o
+src/calander.o: src/calander.cpp.o
+.PHONY : src/calander.o
 
 # target to build an object file
-src/hospital.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/hospital.cpp.o
-.PHONY : src/hospital.cpp.o
+src/calander.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/calander.cpp.o
+.PHONY : src/calander.cpp.o
 
-src/hospital.i: src/hospital.cpp.i
-.PHONY : src/hospital.i
+src/calander.i: src/calander.cpp.i
+.PHONY : src/calander.i
 
 # target to preprocess a source file
-src/hospital.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/hospital.cpp.i
-.PHONY : src/hospital.cpp.i
+src/calander.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/calander.cpp.i
+.PHONY : src/calander.cpp.i
 
-src/hospital.s: src/hospital.cpp.s
-.PHONY : src/hospital.s
+src/calander.s: src/calander.cpp.s
+.PHONY : src/calander.s
 
 # target to generate assembly for a file
-src/hospital.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/hospital.cpp.s
-.PHONY : src/hospital.cpp.s
+src/calander.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/calander.cpp.s
+.PHONY : src/calander.cpp.s
 
-src/main.o: src/main.cpp.o
-.PHONY : src/main.o
+src/event.o: src/event.cpp.o
+.PHONY : src/event.o
 
 # target to build an object file
-src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
+src/event.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/event.cpp.o
+.PHONY : src/event.cpp.o
 
-src/main.i: src/main.cpp.i
-.PHONY : src/main.i
+src/event.i: src/event.cpp.i
+.PHONY : src/event.i
 
 # target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
+src/event.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/event.cpp.i
+.PHONY : src/event.cpp.i
 
-src/main.s: src/main.cpp.s
-.PHONY : src/main.s
+src/event.s: src/event.cpp.s
+.PHONY : src/event.s
 
 # target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
+src/event.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/event.cpp.s
+.PHONY : src/event.cpp.s
 
-src/patient.o: src/patient.cpp.o
-.PHONY : src/patient.o
+src/main1.o: src/main1.cpp.o
+.PHONY : src/main1.o
 
 # target to build an object file
-src/patient.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/patient.cpp.o
-.PHONY : src/patient.cpp.o
+src/main1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main1.cpp.o
+.PHONY : src/main1.cpp.o
 
-src/patient.i: src/patient.cpp.i
-.PHONY : src/patient.i
+src/main1.i: src/main1.cpp.i
+.PHONY : src/main1.i
 
 # target to preprocess a source file
-src/patient.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/patient.cpp.i
-.PHONY : src/patient.cpp.i
+src/main1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main1.cpp.i
+.PHONY : src/main1.cpp.i
 
-src/patient.s: src/patient.cpp.s
-.PHONY : src/patient.s
+src/main1.s: src/main1.cpp.s
+.PHONY : src/main1.s
 
 # target to generate assembly for a file
-src/patient.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/patient.cpp.s
-.PHONY : src/patient.cpp.s
+src/main1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main1.cpp.s
+.PHONY : src/main1.cpp.s
 
 # Help Target
 help:
@@ -210,15 +210,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... app"
-	@echo "... src/hospital.o"
-	@echo "... src/hospital.i"
-	@echo "... src/hospital.s"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
-	@echo "... src/patient.o"
-	@echo "... src/patient.i"
-	@echo "... src/patient.s"
+	@echo "... src/calander.o"
+	@echo "... src/calander.i"
+	@echo "... src/calander.s"
+	@echo "... src/event.o"
+	@echo "... src/event.i"
+	@echo "... src/event.s"
+	@echo "... src/main1.o"
+	@echo "... src/main1.i"
+	@echo "... src/main1.s"
 .PHONY : help
 
 

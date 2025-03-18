@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/app.dir/src/patient.cpp.o CMakeFiles/app.dir/src/hospital.cpp.o CMakeFiles/app.dir/src/main.cpp.o -o app 
+/usr/bin/c++ CMakeFiles/app.dir/src/calander.cpp.o CMakeFiles/app.dir/src/main1.cpp.o CMakeFiles/app.dir/src/event.cpp.o -o app 

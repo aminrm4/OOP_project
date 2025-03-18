@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/app.dir/src/hospital.cpp.o"
-  "CMakeFiles/app.dir/src/hospital.cpp.o.d"
-  "CMakeFiles/app.dir/src/main.cpp.o"
-  "CMakeFiles/app.dir/src/main.cpp.o.d"
-  "CMakeFiles/app.dir/src/patient.cpp.o"
-  "CMakeFiles/app.dir/src/patient.cpp.o.d"
+  "CMakeFiles/app.dir/src/calander.cpp.o"
+  "CMakeFiles/app.dir/src/calander.cpp.o.d"
+  "CMakeFiles/app.dir/src/event.cpp.o"
+  "CMakeFiles/app.dir/src/event.cpp.o.d"
+  "CMakeFiles/app.dir/src/main1.cpp.o"
+  "CMakeFiles/app.dir/src/main1.cpp.o.d"
   "app"
   "app.pdb"
 )
