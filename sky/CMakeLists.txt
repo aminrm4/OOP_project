@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+project(ap)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(include /home/amin/raylib/header)
+link_directories(/home/amin/raylib/build)
+add_executable(app src/main.cpp src/star.cpp src/sky.cpp)
+target_link_libraries(app raylib)
