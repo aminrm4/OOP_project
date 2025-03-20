@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/star.cpp.o CMakeFiles/app.dir/src/sky.cpp.o -o app   -L/home/amin/raylib/build  -Wl,-rpath,/home/amin/raylib/build -lraylib 
