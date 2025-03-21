@@ -1,6 +1,7 @@
 CMakeFiles/app.dir/src/main1.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/main1.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
+ /home/amin/Desktop/test/40312358013_hw22/hospital/src/main1.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
+ /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -153,8 +154,8 @@ CMakeFiles/app.dir/src/main1.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
  /usr/include/c++/13/bits/fstream.tcc \
- /home/amin/Desktop/vs.code.uni/include/event.hpp \
- /home/amin/Desktop/vs.code.uni/include/calander.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/hospital/include/event.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/hospital/include/calander.hpp \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \

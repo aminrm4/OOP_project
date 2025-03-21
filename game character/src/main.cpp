@@ -21,11 +21,11 @@ void write_to_file(const string filename, string namee, int health, int pow2, in
 
 int main()
 {
-
+    cout << "welcome to the game" << endl;
     const string filename = "game.txt";
     while (true)
     {
-        cout << "welcome to the game" << endl;
+
         cout << "enter your specefic character name " << endl;
         string yname;
         cin >> yname;
@@ -54,9 +54,8 @@ int main()
                 }
                 else
                 {
-                    cerr<<"wrong data input in level and name_skill"<<endl;
+                    cerr << "wrong data input in level and name_skill" << endl;
                 }
-                
             }
         }
         else

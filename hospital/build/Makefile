@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/amin/Desktop/vs.code.uni
+CMAKE_SOURCE_DIR = /home/amin/Desktop/hospital
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/amin/Desktop/vs.code.uni/build
+CMAKE_BINARY_DIR = /home/amin/Desktop/hospital/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amin/Desktop/vs.code.uni/build/CMakeFiles /home/amin/Desktop/vs.code.uni/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amin/Desktop/hospital/build/CMakeFiles /home/amin/Desktop/hospital/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amin/Desktop/vs.code.uni/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amin/Desktop/hospital/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -129,77 +129,77 @@ app/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/build
 .PHONY : app/fast
 
-src/calander.o: src/calander.cpp.o
-.PHONY : src/calander.o
+src/hospital.o: src/hospital.cpp.o
+.PHONY : src/hospital.o
 
 # target to build an object file
-src/calander.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/calander.cpp.o
-.PHONY : src/calander.cpp.o
+src/hospital.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/hospital.cpp.o
+.PHONY : src/hospital.cpp.o
 
-src/calander.i: src/calander.cpp.i
-.PHONY : src/calander.i
+src/hospital.i: src/hospital.cpp.i
+.PHONY : src/hospital.i
 
 # target to preprocess a source file
-src/calander.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/calander.cpp.i
-.PHONY : src/calander.cpp.i
+src/hospital.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/hospital.cpp.i
+.PHONY : src/hospital.cpp.i
 
-src/calander.s: src/calander.cpp.s
-.PHONY : src/calander.s
+src/hospital.s: src/hospital.cpp.s
+.PHONY : src/hospital.s
 
 # target to generate assembly for a file
-src/calander.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/calander.cpp.s
-.PHONY : src/calander.cpp.s
+src/hospital.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/hospital.cpp.s
+.PHONY : src/hospital.cpp.s
 
-src/event.o: src/event.cpp.o
-.PHONY : src/event.o
+src/main.o: src/main.cpp.o
+.PHONY : src/main.o
 
 # target to build an object file
-src/event.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/event.cpp.o
-.PHONY : src/event.cpp.o
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-src/event.i: src/event.cpp.i
-.PHONY : src/event.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-src/event.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/event.cpp.i
-.PHONY : src/event.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-src/event.s: src/event.cpp.s
-.PHONY : src/event.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-src/event.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/event.cpp.s
-.PHONY : src/event.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
-src/main1.o: src/main1.cpp.o
-.PHONY : src/main1.o
+src/patient.o: src/patient.cpp.o
+.PHONY : src/patient.o
 
 # target to build an object file
-src/main1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main1.cpp.o
-.PHONY : src/main1.cpp.o
+src/patient.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/patient.cpp.o
+.PHONY : src/patient.cpp.o
 
-src/main1.i: src/main1.cpp.i
-.PHONY : src/main1.i
+src/patient.i: src/patient.cpp.i
+.PHONY : src/patient.i
 
 # target to preprocess a source file
-src/main1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main1.cpp.i
-.PHONY : src/main1.cpp.i
+src/patient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/patient.cpp.i
+.PHONY : src/patient.cpp.i
 
-src/main1.s: src/main1.cpp.s
-.PHONY : src/main1.s
+src/patient.s: src/patient.cpp.s
+.PHONY : src/patient.s
 
 # target to generate assembly for a file
-src/main1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main1.cpp.s
-.PHONY : src/main1.cpp.s
+src/patient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/patient.cpp.s
+.PHONY : src/patient.cpp.s
 
 # Help Target
 help:
@@ -210,15 +210,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... app"
-	@echo "... src/calander.o"
-	@echo "... src/calander.i"
-	@echo "... src/calander.s"
-	@echo "... src/event.o"
-	@echo "... src/event.i"
-	@echo "... src/event.s"
-	@echo "... src/main1.o"
-	@echo "... src/main1.i"
-	@echo "... src/main1.s"
+	@echo "... src/hospital.o"
+	@echo "... src/hospital.i"
+	@echo "... src/hospital.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/patient.o"
+	@echo "... src/patient.i"
+	@echo "... src/patient.s"
 .PHONY : help
 
 

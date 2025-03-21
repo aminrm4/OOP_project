@@ -1,7 +1,6 @@
 CMakeFiles/app.dir/src/patient.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/patient.cpp \
- /usr/include/stdc-predef.h \
- /home/amin/Desktop/vs.code.uni/include/patient.hpp \
+ /home/amin/Desktop/hospital/src/patient.cpp /usr/include/stdc-predef.h \
+ /home/amin/Desktop/hospital/include/patient.hpp \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -162,4 +161,4 @@ CMakeFiles/app.dir/src/patient.cpp.o: \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \
  /usr/include/c++/13/bits/vector.tcc \
- /home/amin/Desktop/vs.code.uni/include/hospital.hpp
+ /home/amin/Desktop/hospital/include/hospital.hpp

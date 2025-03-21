@@ -1,6 +1,7 @@
 CMakeFiles/app.dir/src/main.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/main.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
+ /home/amin/Desktop/test/40312358013_hw22/game\ character/src/main.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
+ /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -161,5 +162,5 @@ CMakeFiles/app.dir/src/main.cpp.o: \
  /usr/include/libintl.h /usr/include/c++/13/bits/locale_facets_nonio.tcc \
  /usr/include/c++/13/bits/locale_conv.h \
  /usr/include/c++/13/bits/quoted_string.h \
- /home/amin/Desktop/vs.code.uni/include/character1.hpp \
- /home/amin/Desktop/vs.code.uni/include/game.hpp
+ /home/amin/Desktop/test/40312358013_hw22/game\ character/include/character1.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/game\ character/include/game.hpp

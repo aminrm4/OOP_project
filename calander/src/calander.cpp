@@ -5,10 +5,42 @@
 #include<sstream>
 #include"calander.hpp"
 #include"event.hpp"
-string  calander:: add_event(string name1)
+bool calander:: add_event(const string filename,int new_s,int new_end)
 {
-return "dfda";
+ fstream file(filename,ios::in);
+ if (!file)
+ {
+    cerr<<"the data file could not be opend"<<endl;
+
 }
+string reader;
+while (getline(file,reader))
+{
+    string name2;
+    int star;
+    int ed;
+    long long unsigned int de;
+    istringstream iss(reader);
+    iss>>name2>>star>>ed>>de;
+        if (new_s==star)
+        {
+        if (new_end==ed)
+        {
+            return false;
+        }
+        
+        }
+        
+    }
+    return true;
+}
+
+ 
+
+
+
+
+
 void  calander::refresh( )
 {
     time_t set=time(nullptr);
@@ -28,8 +60,6 @@ void  calander::refresh( )
      long long unsigned int del;
  istringstream iss(reader);
  iss>>name>>start>>end>>del;
- //cout<<name<<" " <<start<< " " <<end<< " "<<del<< " " <<endl;
- //cout<<set;
  if (!(set>del))
  {
    

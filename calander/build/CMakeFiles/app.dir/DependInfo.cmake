@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/amin/Desktop/vs.code.uni/src/calander.cpp" "CMakeFiles/app.dir/src/calander.cpp.o" "gcc" "CMakeFiles/app.dir/src/calander.cpp.o.d"
-  "/home/amin/Desktop/vs.code.uni/src/event.cpp" "CMakeFiles/app.dir/src/event.cpp.o" "gcc" "CMakeFiles/app.dir/src/event.cpp.o.d"
-  "/home/amin/Desktop/vs.code.uni/src/main1.cpp" "CMakeFiles/app.dir/src/main1.cpp.o" "gcc" "CMakeFiles/app.dir/src/main1.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/hospital/src/calander.cpp" "CMakeFiles/app.dir/src/calander.cpp.o" "gcc" "CMakeFiles/app.dir/src/calander.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/hospital/src/event.cpp" "CMakeFiles/app.dir/src/event.cpp.o" "gcc" "CMakeFiles/app.dir/src/event.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/hospital/src/main1.cpp" "CMakeFiles/app.dir/src/main1.cpp.o" "gcc" "CMakeFiles/app.dir/src/main1.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

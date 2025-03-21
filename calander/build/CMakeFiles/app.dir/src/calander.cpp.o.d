@@ -1,5 +1,5 @@
 CMakeFiles/app.dir/src/calander.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/calander.cpp \
+ /home/amin/Desktop/test/40312358013_hw22/hospital/src/calander.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/string \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -157,5 +157,5 @@ CMakeFiles/app.dir/src/calander.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
  /usr/include/c++/13/bits/fstream.tcc /usr/include/c++/13/sstream \
  /usr/include/c++/13/bits/sstream.tcc \
- /home/amin/Desktop/vs.code.uni/include/calander.hpp \
- /home/amin/Desktop/vs.code.uni/include/event.hpp
+ /home/amin/Desktop/test/40312358013_hw22/hospital/include/calander.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/hospital/include/event.hpp

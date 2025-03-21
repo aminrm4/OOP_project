@@ -1,6 +1,7 @@
 CMakeFiles/app.dir/src/main.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/main.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
+ /home/amin/Desktop/test/40312358013_hw22/sky/src/main.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
+ /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -144,9 +145,9 @@ CMakeFiles/app.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc /usr/local/include/raylib.h \
- /home/amin/Desktop/vs.code.uni/include/sky.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/sky/include/sky.hpp \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \
  /usr/include/c++/13/bits/vector.tcc \
- /home/amin/Desktop/vs.code.uni/include/star.hpp
+ /home/amin/Desktop/test/40312358013_hw22/sky/include/star.hpp

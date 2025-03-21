@@ -1,6 +1,7 @@
 CMakeFiles/app.dir/src/main1.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/main1.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
+ /home/amin/Desktop/test/40312358013_hw22/gps/src/main1.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
+ /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -149,7 +150,7 @@ CMakeFiles/app.dir/src/main1.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc \
- /home/amin/Desktop/vs.code.uni/include/gps.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/gps/include/gps.hpp \
  /usr/include/c++/13/fstream /usr/include/c++/13/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \

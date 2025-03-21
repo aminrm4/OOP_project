@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/amin/Desktop/vs.code.uni/src/main.cpp" "CMakeFiles/app.dir/src/main.cpp.o" "gcc" "CMakeFiles/app.dir/src/main.cpp.o.d"
-  "/home/amin/Desktop/vs.code.uni/src/sky.cpp" "CMakeFiles/app.dir/src/sky.cpp.o" "gcc" "CMakeFiles/app.dir/src/sky.cpp.o.d"
-  "/home/amin/Desktop/vs.code.uni/src/star.cpp" "CMakeFiles/app.dir/src/star.cpp.o" "gcc" "CMakeFiles/app.dir/src/star.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/sky/src/main.cpp" "CMakeFiles/app.dir/src/main.cpp.o" "gcc" "CMakeFiles/app.dir/src/main.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/sky/src/sky.cpp" "CMakeFiles/app.dir/src/sky.cpp.o" "gcc" "CMakeFiles/app.dir/src/sky.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/sky/src/star.cpp" "CMakeFiles/app.dir/src/star.cpp.o" "gcc" "CMakeFiles/app.dir/src/star.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

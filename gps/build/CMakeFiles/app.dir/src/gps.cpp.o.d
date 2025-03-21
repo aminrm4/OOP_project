@@ -1,6 +1,7 @@
 CMakeFiles/app.dir/src/gps.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/gps.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
+ /home/amin/Desktop/test/40312358013_hw22/gps/src/gps.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
+ /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -153,4 +154,4 @@ CMakeFiles/app.dir/src/gps.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
  /usr/include/c++/13/bits/fstream.tcc \
- /home/amin/Desktop/vs.code.uni/include/gps.hpp
+ /home/amin/Desktop/test/40312358013_hw22/gps/include/gps.hpp

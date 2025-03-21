@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/amin/Desktop/vs.code.uni/src/gps.cpp" "CMakeFiles/app.dir/src/gps.cpp.o" "gcc" "CMakeFiles/app.dir/src/gps.cpp.o.d"
-  "/home/amin/Desktop/vs.code.uni/src/main1.cpp" "CMakeFiles/app.dir/src/main1.cpp.o" "gcc" "CMakeFiles/app.dir/src/main1.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/gps/src/gps.cpp" "CMakeFiles/app.dir/src/gps.cpp.o" "gcc" "CMakeFiles/app.dir/src/gps.cpp.o.d"
+  "/home/amin/Desktop/test/40312358013_hw22/gps/src/main1.cpp" "CMakeFiles/app.dir/src/main1.cpp.o" "gcc" "CMakeFiles/app.dir/src/main1.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,0 +1,3 @@
+rayli  power   1000    health    100     level    10  name_skill     swining
+rayli  power   1000    health    100     level    12  name_skill     asdas
+rayli  power   1000    health    100     level    2  name_skill     asdasda

@@ -1,6 +1,7 @@
 CMakeFiles/app.dir/src/event.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/event.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
+ /home/amin/Desktop/test/40312358013_hw22/hospital/src/event.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
+ /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -149,5 +150,5 @@ CMakeFiles/app.dir/src/event.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc \
- /home/amin/Desktop/vs.code.uni/include/event.hpp \
- /home/amin/Desktop/vs.code.uni/include/calander.hpp
+ /home/amin/Desktop/test/40312358013_hw22/hospital/include/event.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/hospital/include/calander.hpp

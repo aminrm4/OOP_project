@@ -1,5 +1,5 @@
 CMakeFiles/app.dir/src/character1.cpp.o: \
- /home/amin/Desktop/vs.code.uni/src/character1.cpp \
+ /home/amin/Desktop/test/40312358013_hw22/game\ character/src/character1.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -155,5 +155,5 @@ CMakeFiles/app.dir/src/character1.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
  /usr/include/c++/13/bits/fstream.tcc /usr/include/c++/13/sstream \
  /usr/include/c++/13/bits/sstream.tcc \
- /home/amin/Desktop/vs.code.uni/include/character1.hpp \
- /home/amin/Desktop/vs.code.uni/include/game.hpp
+ /home/amin/Desktop/test/40312358013_hw22/game\ character/include/character1.hpp \
+ /home/amin/Desktop/test/40312358013_hw22/game\ character/include/game.hpp

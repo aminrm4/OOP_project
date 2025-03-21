@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/amin/Desktop/vs.code.uni/include
+CXX_INCLUDES = -I/home/amin/Desktop/test/40312358013_hw22/hospital/include
 
 CXX_FLAGS = 
 

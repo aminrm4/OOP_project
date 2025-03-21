@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/amin/Desktop/vs.code.uni
+CMAKE_SOURCE_DIR = "/home/amin/Desktop/test/40312358013_hw22/game character"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/amin/Desktop/vs.code.uni/build
+CMAKE_BINARY_DIR = "/home/amin/Desktop/test/40312358013_hw22/game character/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/app.dir/depend.make
@@ -70,46 +70,46 @@ include CMakeFiles/app.dir/progress.make
 include CMakeFiles/app.dir/flags.make
 
 CMakeFiles/app.dir/src/game.cpp.o: CMakeFiles/app.dir/flags.make
-CMakeFiles/app.dir/src/game.cpp.o: /home/amin/Desktop/vs.code.uni/src/game.cpp
+CMakeFiles/app.dir/src/game.cpp.o: /home/amin/Desktop/test/40312358013_hw22/game\ character/src/game.cpp
 CMakeFiles/app.dir/src/game.cpp.o: CMakeFiles/app.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/amin/Desktop/vs.code.uni/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/app.dir/src/game.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/app.dir/src/game.cpp.o -MF CMakeFiles/app.dir/src/game.cpp.o.d -o CMakeFiles/app.dir/src/game.cpp.o -c /home/amin/Desktop/vs.code.uni/src/game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/amin/Desktop/test/40312358013_hw22/game character/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/app.dir/src/game.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/app.dir/src/game.cpp.o -MF CMakeFiles/app.dir/src/game.cpp.o.d -o CMakeFiles/app.dir/src/game.cpp.o -c "/home/amin/Desktop/test/40312358013_hw22/game character/src/game.cpp"
 
 CMakeFiles/app.dir/src/game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/app.dir/src/game.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/amin/Desktop/vs.code.uni/src/game.cpp > CMakeFiles/app.dir/src/game.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/amin/Desktop/test/40312358013_hw22/game character/src/game.cpp" > CMakeFiles/app.dir/src/game.cpp.i
 
 CMakeFiles/app.dir/src/game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/app.dir/src/game.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/amin/Desktop/vs.code.uni/src/game.cpp -o CMakeFiles/app.dir/src/game.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/amin/Desktop/test/40312358013_hw22/game character/src/game.cpp" -o CMakeFiles/app.dir/src/game.cpp.s
 
 CMakeFiles/app.dir/src/main.cpp.o: CMakeFiles/app.dir/flags.make
-CMakeFiles/app.dir/src/main.cpp.o: /home/amin/Desktop/vs.code.uni/src/main.cpp
+CMakeFiles/app.dir/src/main.cpp.o: /home/amin/Desktop/test/40312358013_hw22/game\ character/src/main.cpp
 CMakeFiles/app.dir/src/main.cpp.o: CMakeFiles/app.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/amin/Desktop/vs.code.uni/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/app.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/app.dir/src/main.cpp.o -MF CMakeFiles/app.dir/src/main.cpp.o.d -o CMakeFiles/app.dir/src/main.cpp.o -c /home/amin/Desktop/vs.code.uni/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/amin/Desktop/test/40312358013_hw22/game character/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/app.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/app.dir/src/main.cpp.o -MF CMakeFiles/app.dir/src/main.cpp.o.d -o CMakeFiles/app.dir/src/main.cpp.o -c "/home/amin/Desktop/test/40312358013_hw22/game character/src/main.cpp"
 
 CMakeFiles/app.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/app.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/amin/Desktop/vs.code.uni/src/main.cpp > CMakeFiles/app.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/amin/Desktop/test/40312358013_hw22/game character/src/main.cpp" > CMakeFiles/app.dir/src/main.cpp.i
 
 CMakeFiles/app.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/app.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/amin/Desktop/vs.code.uni/src/main.cpp -o CMakeFiles/app.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/amin/Desktop/test/40312358013_hw22/game character/src/main.cpp" -o CMakeFiles/app.dir/src/main.cpp.s
 
 CMakeFiles/app.dir/src/character1.cpp.o: CMakeFiles/app.dir/flags.make
-CMakeFiles/app.dir/src/character1.cpp.o: /home/amin/Desktop/vs.code.uni/src/character1.cpp
+CMakeFiles/app.dir/src/character1.cpp.o: /home/amin/Desktop/test/40312358013_hw22/game\ character/src/character1.cpp
 CMakeFiles/app.dir/src/character1.cpp.o: CMakeFiles/app.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/amin/Desktop/vs.code.uni/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/app.dir/src/character1.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/app.dir/src/character1.cpp.o -MF CMakeFiles/app.dir/src/character1.cpp.o.d -o CMakeFiles/app.dir/src/character1.cpp.o -c /home/amin/Desktop/vs.code.uni/src/character1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/amin/Desktop/test/40312358013_hw22/game character/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/app.dir/src/character1.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/app.dir/src/character1.cpp.o -MF CMakeFiles/app.dir/src/character1.cpp.o.d -o CMakeFiles/app.dir/src/character1.cpp.o -c "/home/amin/Desktop/test/40312358013_hw22/game character/src/character1.cpp"
 
 CMakeFiles/app.dir/src/character1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/app.dir/src/character1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/amin/Desktop/vs.code.uni/src/character1.cpp > CMakeFiles/app.dir/src/character1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/amin/Desktop/test/40312358013_hw22/game character/src/character1.cpp" > CMakeFiles/app.dir/src/character1.cpp.i
 
 CMakeFiles/app.dir/src/character1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/app.dir/src/character1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/amin/Desktop/vs.code.uni/src/character1.cpp -o CMakeFiles/app.dir/src/character1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/amin/Desktop/test/40312358013_hw22/game character/src/character1.cpp" -o CMakeFiles/app.dir/src/character1.cpp.s
 
 # Object files for target app
 app_OBJECTS = \
@@ -125,7 +125,7 @@ app: CMakeFiles/app.dir/src/main.cpp.o
 app: CMakeFiles/app.dir/src/character1.cpp.o
 app: CMakeFiles/app.dir/build.make
 app: CMakeFiles/app.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/amin/Desktop/vs.code.uni/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable app"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/home/amin/Desktop/test/40312358013_hw22/game character/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable app"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/app.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -137,6 +137,6 @@ CMakeFiles/app.dir/clean:
 .PHONY : CMakeFiles/app.dir/clean
 
 CMakeFiles/app.dir/depend:
-	cd /home/amin/Desktop/vs.code.uni/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/amin/Desktop/vs.code.uni /home/amin/Desktop/vs.code.uni /home/amin/Desktop/vs.code.uni/build /home/amin/Desktop/vs.code.uni/build /home/amin/Desktop/vs.code.uni/build/CMakeFiles/app.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd "/home/amin/Desktop/test/40312358013_hw22/game character/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/amin/Desktop/test/40312358013_hw22/game character" "/home/amin/Desktop/test/40312358013_hw22/game character" "/home/amin/Desktop/test/40312358013_hw22/game character/build" "/home/amin/Desktop/test/40312358013_hw22/game character/build" "/home/amin/Desktop/test/40312358013_hw22/game character/build/CMakeFiles/app.dir/DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/app.dir/depend
 
